@@ -1,0 +1,138 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper,left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+\usepackage{amssymb}
+\usepackage{amsmath,mathtools}
+\usepackage{relsize}
+\usepackage{epsfig,graphicx}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage[authordate16,backend=biber]{biblatex-chicago}
+\addbibresource{citation.bib}
+\usepackage{color, colortbl}
+% \usepackage{subfigure}
+\usepackage{hyperref}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+% \usepackage{cite}
+\usepackage{amsfonts}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{authblk}
+\usepackage{subcaption}
+\usepackage{nameref}
+\usepackage{xstring}
+\usepackage[labelfont=bf]{caption}
+
+\begin{document}
+
+
+\definecolor{Gray1}{gray}{0.9}
+\definecolor{Gray2}{gray}{0.92}
+\begin{table}[H]\label{variables}
+	\centering
+	\caption{The description of variables}
+	\begin{tabular}{|c|c|}
+        \hline 
+        \rowcolor{Gray1}\hspace{40pt} \textbf{Variables} \hspace{40pt} & \hspace{130pt} \textbf{Description} \hspace{130pt} \\
+		\hline $i, j \in D$ & $i^{th}$ bin and $j^{th}$ bin respectively.\\
+		\hline $D$ & Total bins for a particular region including depot.\\
+		\hline $N$ & Bins for a particular CV excluding depot.\\
+		\hline \multirow{2}{*}{$A$} & Set of all the arcs formed from \\
+		&  $i^{th}$ bin to $j^{th}$ bin for $\forall i ,j \in$ D.\\
+		\hline \multirow{2}{*}{$C_{ij}\in \mathbb{R}^+$} & Distance cost from bin $i$\\
+		& to bin $j$ for a CV.\\
+		\hline \multirow{2}{*}{$X_{ij} \in \{0, 1\}$} & Binary variable that is 1 if a CV is\\
+		& travelling between the bin $i$ and bin $j$.\\  
+		\hline \multirow{2}{*}{$Y_{i} \in \{0, 1\}$} & A binary variable that is 1 if a CV has \\
+		& visited bin $i$.\\
+		\hline \multirow{1}{*}{$P_{t} \in [0.0, 100.0]$} & Cumulative fill percentage of CV for the time interval $t$.\\
+		\hline \multirow{2}{*}{$u_{i}  \in [0, 100 -P_{t}] $} & The fill percentage of the CV visiting bin $i$ \\
+		& for a specific time interval.\\
+		\hline \multirow{2}{*}{$st \in D$} & The starting bin of a CV in a\\
+		& new time interval.\\
+		\hline \multirow{2}{*}{$w_{1} \in [0.0, 1.0]$} & The weight assigned to the distance \\
+		& in the objective function\\
+		\hline \multirow{2}{*}{$w_{2} \in [0.0, 1.0]$} & The weight assigned to the waste amount \\
+		& in the objective function\\
+		\hline \multirow{1}{*}{$f_{i} \in [0.0, 1.0]$} & The fill ratio of bin at bin $i$.\\
+		\hline \multirow{2}{*}{$BT \in \mathbb{R}^+$} & The conversion factor for fill \\
+		& of smart bin to fill of CV.\\
+		
+		\hline
+    \end{tabular}
+\end{table} 
+
+\newpage
+
+\begin{table}[H]
+    \centering
+    \caption{Observations for 6 CV per region} \label{tab2}
+    \vspace*{0.3cm}
+    % Changed Values
+    \begin{tabular}{|c|ccccc|}
+    \hline
+        \rowcolor{Gray1}\textbf{Region} & \textbf{CV} & \textbf{Waste (Kg)} & \textbf{Distance (Km)} & \textbf{Waste/Distance} & \textbf{Percent collected} \\
+        \hline \multirow{6}{*}{\textbf{Region 1}} & CV 1 & 999.07& 38.53 & 25.93 &14.74\% \\
+        & CV 2 & 990.67 & 47.20 & 20.99 & 13.68\%\\        
+        & CV 3 & 994.66 & 43.57 & 22.83 & 15.79\%\\        
+        & CV 4 & 998.21 & 72.55 & 13.76 & 20.00\%\\      
+        & CV 5 & 977.66 & 121.86 & 8.02 & 24.21\%\\      
+        & CV 6 & 322.56 & 39.19 & 8.23 & 11.58\%\\
+        \hline\rowcolor{Gray2} \multicolumn{4}{|c}{}&\textbf{Total:} &\textbf{100\%}\\
+        \hline \multirow{6}{*}{\textbf{Region 2}} & CV 1 & 999.71 & 62.64 & 15.96 & 12.61\% \\
+        & CV 2 & 993.32 & 71.67 & 13.86 & 12.61\%\\        
+        & CV 3 & 985.38 & 56.82 & 17.34 & 14.41\%\\        
+        & CV 4 & 991.47 & 78.51 & 12.63 & 13.51\%\\        
+        & CV 5 & 990.43 & 64.48 & 15.36 & 13.51\%\\        
+        & CV 6 & 999.31 & 99.06 & 10.09 & 18.92\%\\
+        \hline \rowcolor{Gray2}  \multicolumn{4}{|c}{}&\textbf{Total:} &\textbf{85.59\%}\\     
+        \hline \multirow{6}{*}{\textbf{Region 3}} & CV 1 & 999.68 & 48.07 & 20.80 & 15.96\% \\
+        & CV 2 & 998.71 & 55.13 & 18.12 & 15.96\%\\        
+        & CV 3 & 991.22 & 50.32 & 19.70 & 14.89\%\\        
+        & CV 4 & 998.88 & 74.83 & 13.35 & 21.28\%\\      
+        & CV 5 & 955.92 & 87.04 & 10.98 & 23.40\%\\      
+        & CV 6 & 235.45 & 57.88 & 4.07 & 8.51\%\\
+        \hline\rowcolor{Gray2}  \multicolumn{4}{|c}{}&\textbf{Total:} &\textbf{100\%}\\
+        \hline  
+    \end{tabular}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+    \centering
+    % Change the caption here
+    \caption{Observation for unrestricted resources} \label{tab3}
+    \vspace*{0.3cm}
+    % Data changed here
+    \begin{tabular}{|c|ccccc|}
+    \hline
+        \rowcolor{Gray1}\textbf{Region} & \textbf{CV} & \textbf{Waste (Kg)} & \textbf{Distance (Km)} & \textbf{Waste/Distance} & \textbf{Percent collected} \\
+        \hline \multirow{6}{*}{\textbf{Region 1}} & CV 1 & 999.07& 38.53 & 25.93 &14.74\% \\
+        & CV 2 & 990.67 & 47.20 & 20.99 & 13.68\%\\        
+        & CV 3 & 994.66 & 43.57 & 22.83 & 15.79\%\\        
+        & CV 4 & 998.21 & 72.55 & 13.76 & 20.00\%\\      
+        & CV 5 & 977.66 & 121.86 & 8.02 & 24.21\%\\      
+        & CV 6 & 322.56 & 39.19 & 8.23 & 11.58\%\\ 
+        \hline\rowcolor{Gray2} &\textbf{Total:} &\textbf{5282.82} &\textbf{362.89} &- &\textbf{100\%}\\
+        \hline \multirow{7}{*}{\textbf{Region 2}} & CV 1 & 999.69 & 60.89 & 16.42 & 12.61 \\
+        & CV 2 & 992.96 & 70.29 & 14.13 & 13.51\%\\        
+        & CV 3 & 988.65 & 65.86 & 15.01 & 11.71\%\\        
+        & CV 4 & 997.20 & 68.30 & 14.60 & 15.32\%\\      
+        & CV 5 & 983.61 & 73.17 & 13.44 & 15.32\%\\      
+        & CV 6 & 934.99 & 94.22 & 9.92 & 14.41\%\\      
+        & CV 7 & 740.36 & 111.69 & 6.63 & 17.12\%\\
+        \hline\rowcolor{Gray2} &\textbf{Total:} &\textbf{6637.42} &\textbf{544.42} &- &\textbf{100\%}\\        
+        \hline \multirow{6}{*}{\textbf{Region 3}} & CV 1 & 999.68 & 48.07 & 20.80 & 15.96\% \\
+        & CV 2 & 998.71 & 55.13 & 18.12 & 15.96\%\\        
+		& CV 3 & 991.22 & 50.32 & 19.70 & 14.89\%\\        
+		& CV 4 & 998.88 & 74.83 & 13.35 & 21.28\%\\      
+		& CV 5 & 955.92 & 87.04 & 10.98 & 23.40\%\\      
+		& CV 6 & 235.45 & 57.88 & 4.07 & 8.51\%\\ 
+        \hline\rowcolor{Gray2} &\textbf{Total:} &\textbf{5179.85} &\textbf{373.26 }&- &\textbf{100\%}\\
+        \hline  
+    \end{tabular}
+\end{table}
+\end{document}

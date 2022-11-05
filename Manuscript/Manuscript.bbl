@@ -1,0 +1,1996 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{abdallah2020artificial}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=ec6ca3121ae8372c4c88c7e745a3103a}{%
+           family={Abdallah},
+           familyi={A\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=645222f31aa3c674adb3522294cb94dd}{%
+           family={Talib},
+           familyi={T\bibinitperiod},
+           given={Manar\bibnamedelima Abu},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08c83d76cb8effab03f947d443f357ad}{%
+           family={Feroz},
+           familyi={F\bibinitperiod},
+           given={Sainab},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=525f3e44c3d170c9bf4ff892c8685d85}{%
+           family={Nasir},
+           familyi={N\bibinitperiod},
+           given={Qassim},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21f7d46bdc7a288a3ed9552b71d251ed}{%
+           family={Abdalla},
+           familyi={A\bibinitperiod},
+           given={Hadeer},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69bfd5cb4df0ecbea986fe3d8a0d6e2b}{%
+           family={Mahfood},
+           familyi={M\bibinitperiod},
+           given={Bayan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{de727ad699a8e38f7357988be5910a8d}
+      \strng{fullhash}{f94ce2368ce18eaeaf87460b3612021b}
+      \strng{bibnamehash}{f94ce2368ce18eaeaf87460b3612021b}
+      \strng{authorbibnamehash}{f94ce2368ce18eaeaf87460b3612021b}
+      \strng{authornamehash}{de727ad699a8e38f7357988be5910a8d}
+      \strng{authorfullhash}{f94ce2368ce18eaeaf87460b3612021b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Waste Management}
+      \field{title}{Artificial intelligence applications in solid waste management: A systematic research review}
+      \field{volume}{109}
+      \field{year}{2020}
+      \field{pages}{231\bibrangedash 246}
+      \range{pages}{16}
+    \endentry
+    \entry{akbarpour2021innovative}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ab3d8c1f6cefe80dd03aa21e9e84e5bc}{%
+           family={Akbarpour},
+           familyi={A\bibinitperiod},
+           given={Navid},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb1be331d8deaba3b93c5c046e22e467}{%
+           family={Salehi-Amiri},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Amirhossein},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb79aa66f8a1f9738a8be15cf31eeedd}{%
+           family={Hajiaghaei-Keshteli},
+           familyi={H\bibinithyphendelim K\bibinitperiod},
+           given={Mostafa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02fdbf24b85875307f32bce6c3248d7b}{%
+           family={Oliva},
+           familyi={O\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{8579f24b6426c967ea9a5bf9fa5bf8f4}
+      \strng{fullhash}{e376dabdb5045e349e916640f8f6bf26}
+      \strng{bibnamehash}{e376dabdb5045e349e916640f8f6bf26}
+      \strng{authorbibnamehash}{e376dabdb5045e349e916640f8f6bf26}
+      \strng{authornamehash}{8579f24b6426c967ea9a5bf9fa5bf8f4}
+      \strng{authorfullhash}{e376dabdb5045e349e916640f8f6bf26}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soft Computing}
+      \field{number}{8}
+      \field{title}{An innovative waste management system in a smart city under stochastic optimization using vehicle routing problem}
+      \field{volume}{25}
+      \field{year}{2021}
+      \field{pages}{6707\bibrangedash 6727}
+      \range{pages}{21}
+    \endentry
+    \entry{akhtar2017backtracking}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d2130634bdcb5f5d06f072dce336f84a}{%
+           family={Akhtar},
+           familyi={A\bibinitperiod},
+           given={Mahmuda},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d6f41afe8656586df62e027d3b81a15}{%
+           family={Hannan},
+           familyi={H\bibinitperiod},
+           given={MA},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f432a654b8ff79ac4e870fd0c8793da}{%
+           family={Begum},
+           familyi={B\bibinitperiod},
+           given={RA},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33ddc913a93db56e682eadd2b700ad05}{%
+           family={Basri},
+           familyi={B\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57acdcd3324fe70f9801fb4a0343f1c1}{%
+           family={Scavino},
+           familyi={S\bibinitperiod},
+           given={Edgar},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b28fc4e80761dc2567b01333986c290d}
+      \strng{fullhash}{d15613c478484d4626c82dfebf035d58}
+      \strng{bibnamehash}{d15613c478484d4626c82dfebf035d58}
+      \strng{authorbibnamehash}{d15613c478484d4626c82dfebf035d58}
+      \strng{authornamehash}{b28fc4e80761dc2567b01333986c290d}
+      \strng{authorfullhash}{d15613c478484d4626c82dfebf035d58}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Waste Management}
+      \field{title}{Backtracking search algorithm in CVRP models for efficient solid waste collection and route optimization}
+      \field{volume}{61}
+      \field{year}{2017}
+      \field{pages}{117\bibrangedash 128}
+      \range{pages}{12}
+    \endentry
+    \entry{aleyadeh2018iot}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0cb289bd465c3dc9a8e13053ee4455a0}{%
+           family={Aleyadeh},
+           familyi={A\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df95dea6d8b3f508eaa4945a1f4759a5}{%
+           family={Taha},
+           familyi={T\bibinitperiod},
+           given={Abd-Elhamid\bibnamedelima M},
+           giveni={A\bibinithyphendelim E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{1fb70bb97a1373030b849348bd92f842}
+      \strng{fullhash}{1fb70bb97a1373030b849348bd92f842}
+      \strng{bibnamehash}{1fb70bb97a1373030b849348bd92f842}
+      \strng{authorbibnamehash}{1fb70bb97a1373030b849348bd92f842}
+      \strng{authornamehash}{1fb70bb97a1373030b849348bd92f842}
+      \strng{authorfullhash}{1fb70bb97a1373030b849348bd92f842}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE International Conference on Communications Workshops (ICC Workshops)}
+      \field{title}{An IoT-Based architecture for waste management}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+    \entry{alwabli2020dynamic}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d0c90a614eaa30f2ea906398dbb678f}{%
+           family={Alwabli},
+           familyi={A\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=626a3d8e27458a25cca9920d6cd71145}{%
+           family={Kostanic},
+           familyi={K\bibinitperiod},
+           given={Ivica},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{509f10a5a8624ff80420668bc30a6463}
+      \strng{fullhash}{509f10a5a8624ff80420668bc30a6463}
+      \strng{bibnamehash}{509f10a5a8624ff80420668bc30a6463}
+      \strng{authorbibnamehash}{509f10a5a8624ff80420668bc30a6463}
+      \strng{authornamehash}{509f10a5a8624ff80420668bc30a6463}
+      \strng{authorfullhash}{509f10a5a8624ff80420668bc30a6463}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 International Conference on Computer Science and Its Application in Agriculture (ICOSICA)}
+      \field{title}{Dynamic route optimization for waste collection using genetic algorithm}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{amal2018sga}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=27ac108f157b8b1594395572483bac79}{%
+           family={Amal},
+           familyi={A\bibinitperiod},
+           given={Louati},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b21eba77d1591a8139d19b974e7b1ac5}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Le\bibnamedelima Hoang},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1552a0ab9db276f118468ee55c5366b2}{%
+           family={Chabchoub},
+           familyi={C\bibinitperiod},
+           given={Habib},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{81bfe0f7f01988ac6420503d807f8a6e}
+      \strng{fullhash}{81bfe0f7f01988ac6420503d807f8a6e}
+      \strng{bibnamehash}{81bfe0f7f01988ac6420503d807f8a6e}
+      \strng{authorbibnamehash}{81bfe0f7f01988ac6420503d807f8a6e}
+      \strng{authornamehash}{81bfe0f7f01988ac6420503d807f8a6e}
+      \strng{authorfullhash}{81bfe0f7f01988ac6420503d807f8a6e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science and Pollution Research}
+      \field{number}{27}
+      \field{title}{SGA: spatial GIS-based genetic algorithm for route optimization of municipal solid waste collection}
+      \field{volume}{25}
+      \field{year}{2018}
+      \field{pages}{27569\bibrangedash 27582}
+      \range{pages}{14}
+    \endentry
+    \entry{anagnostopoulos2015assessing}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=e143be418e594c3136af7a93d585d81f}{%
+           family={Anagnostopoulos},
+           familyi={A\bibinitperiod},
+           given={Theodoros},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1760eff064284d7879fa71349fd4e27a}{%
+           family={Kolomvatsos},
+           familyi={K\bibinitperiod},
+           given={Kostas},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1723754f9772f97788ff65ca0509aeb7}{%
+           family={Anagnostopoulos},
+           familyi={A\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8da289bb46b6a95f52ced670c23af820}{%
+           family={Zaslavsky},
+           familyi={Z\bibinitperiod},
+           given={Arkady},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ac6bc7dfed1b1d5e312abec6a1c4d4c}{%
+           family={Hadjiefthymiades},
+           familyi={H\bibinitperiod},
+           given={Stathes},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{764bc6cb105837b63a11531f8a8f76f1}
+      \strng{fullhash}{a3788d2f2abaf879cadd3441059a9b78}
+      \strng{bibnamehash}{a3788d2f2abaf879cadd3441059a9b78}
+      \strng{authorbibnamehash}{a3788d2f2abaf879cadd3441059a9b78}
+      \strng{authornamehash}{764bc6cb105837b63a11531f8a8f76f1}
+      \strng{authorfullhash}{a3788d2f2abaf879cadd3441059a9b78}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Systems and Software}
+      \field{title}{Assessing dynamic models for high priority waste collection in smart cities}
+      \field{volume}{110}
+      \field{year}{2015}
+      \field{pages}{178\bibrangedash 192}
+      \range{pages}{15}
+    \endentry
+    \entry{anagnostopoulos2015robust}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e143be418e594c3136af7a93d585d81f}{%
+           family={Anagnostopoulos},
+           familyi={A\bibinitperiod},
+           given={Theodoros},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8da289bb46b6a95f52ced670c23af820}{%
+           family={Zaslavsky},
+           familyi={Z\bibinitperiod},
+           given={Arkady},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7da6126a54752663328b260e72d5f29c}{%
+           family={Medvedev},
+           familyi={M\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{fd9d1a13833ce0c21f1af26bf0cb9146}
+      \strng{fullhash}{fd9d1a13833ce0c21f1af26bf0cb9146}
+      \strng{bibnamehash}{fd9d1a13833ce0c21f1af26bf0cb9146}
+      \strng{authorbibnamehash}{fd9d1a13833ce0c21f1af26bf0cb9146}
+      \strng{authornamehash}{fd9d1a13833ce0c21f1af26bf0cb9146}
+      \strng{authorfullhash}{fd9d1a13833ce0c21f1af26bf0cb9146}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 International conference on recent advances in internet of things (RIoT)}
+      \field{title}{Robust waste collection exploiting cost efficiency of IoT potentiality in Smart Cities}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{anagnostopoulos2018stochastic}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=e143be418e594c3136af7a93d585d81f}{%
+           family={Anagnostopoulos},
+           familyi={A\bibinitperiod},
+           given={Theodoros},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8da289bb46b6a95f52ced670c23af820}{%
+           family={Zaslavsky},
+           familyi={Z\bibinitperiod},
+           given={Arkady},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffd5520168f06f78adde4abc2b241962}{%
+           family={Sosunova},
+           familyi={S\bibinitperiod},
+           given={Inna},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=947db9b2b9294a801ea2c735ae0af2f3}{%
+           family={Fedchenkov},
+           familyi={F\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7da6126a54752663328b260e72d5f29c}{%
+           family={Medvedev},
+           familyi={M\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3aea9967979afcf65e0ead5ecfb025b5}{%
+           family={Ntalianis},
+           familyi={N\bibinitperiod},
+           given={Klimis},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1330a72c18c411e293ab4ad478046ab4}{%
+           family={Skourlas},
+           familyi={S\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=139186e9c67ad037220a340745bc6484}{%
+           family={Rybin},
+           familyi={R\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f37c0e36cffe1ece169c7d42daff9185}{%
+           family={Khoruznikov},
+           familyi={K\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{764bc6cb105837b63a11531f8a8f76f1}
+      \strng{fullhash}{95d48e9a574a9621a95e616f4c4a27e3}
+      \strng{bibnamehash}{95d48e9a574a9621a95e616f4c4a27e3}
+      \strng{authorbibnamehash}{95d48e9a574a9621a95e616f4c4a27e3}
+      \strng{authornamehash}{764bc6cb105837b63a11531f8a8f76f1}
+      \strng{authorfullhash}{95d48e9a574a9621a95e616f4c4a27e3}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Waste Management \& Research}
+      \field{number}{11}
+      \field{title}{A stochastic multi-agent system for Internet of Things-enabled waste management in smart cities}
+      \field{volume}{36}
+      \field{year}{2018}
+      \field{pages}{1113\bibrangedash 1121}
+      \range{pages}{9}
+    \endentry
+    \entry{anagnostopoulos2014effective}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ab84262d422802f18fdc340a30363ebc}{%
+           family={Anagnostopoulos},
+           familyi={A\bibinitperiod},
+           given={Theodoros\bibnamedelima Vasileios},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8da289bb46b6a95f52ced670c23af820}{%
+           family={Zaslavsky},
+           familyi={Z\bibinitperiod},
+           given={Arkady},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{71c165bc0bdbeaad93629baa5c22b08e}
+      \strng{fullhash}{71c165bc0bdbeaad93629baa5c22b08e}
+      \strng{bibnamehash}{71c165bc0bdbeaad93629baa5c22b08e}
+      \strng{authorbibnamehash}{71c165bc0bdbeaad93629baa5c22b08e}
+      \strng{authornamehash}{71c165bc0bdbeaad93629baa5c22b08e}
+      \strng{authorfullhash}{71c165bc0bdbeaad93629baa5c22b08e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International conference on next generation wired/wireless networking}
+      \field{title}{Effective waste collection with shortest path semi-static and dynamic routing}
+      \field{year}{2014}
+      \field{pages}{95\bibrangedash 105}
+      \range{pages}{11}
+    \endentry
+    \entry{apaydin2007route}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1960b7daf2c2dc740dfe955c2151eacc}{%
+           family={Apaydin},
+           familyi={A\bibinitperiod},
+           given={Omer},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f050595a8098fe923a2d722333a64d11}{%
+           family={Gonullu},
+           familyi={G\bibinitperiod},
+           given={MT},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6251451e55b0aaa61204eee2eea27f42}
+      \strng{fullhash}{6251451e55b0aaa61204eee2eea27f42}
+      \strng{bibnamehash}{6251451e55b0aaa61204eee2eea27f42}
+      \strng{authorbibnamehash}{6251451e55b0aaa61204eee2eea27f42}
+      \strng{authornamehash}{6251451e55b0aaa61204eee2eea27f42}
+      \strng{authorfullhash}{6251451e55b0aaa61204eee2eea27f42}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Global NEST Journal}
+      \field{number}{1}
+      \field{title}{Route optimization for solid waste collection: Trabzon (Turkey) case study}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{6\bibrangedash 11}
+      \range{pages}{6}
+    \endentry
+    \entry{asefi2019mathematical}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a6733ac8ad21513d537c5376b90cdd69}{%
+           family={Asefi},
+           familyi={A\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7ff91779621a24d991bcf28ab1449a5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Samsung},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=593e4778db7483bf6101645007979790}{%
+           family={Maghrebi},
+           familyi={M\bibinitperiod},
+           given={Mojtaba},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6be720969fd8a53ec9f3df1bde24fb7a}{%
+           family={Shahparvari},
+           familyi={S\bibinitperiod},
+           given={Shahrooz},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{108b4180a4a84d23d28b046bc9e2a397}
+      \strng{fullhash}{b3fd7e5432069c43da866fdf5f54a806}
+      \strng{bibnamehash}{b3fd7e5432069c43da866fdf5f54a806}
+      \strng{authorbibnamehash}{b3fd7e5432069c43da866fdf5f54a806}
+      \strng{authornamehash}{108b4180a4a84d23d28b046bc9e2a397}
+      \strng{authorfullhash}{b3fd7e5432069c43da866fdf5f54a806}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Operations Research}
+      \field{number}{1}
+      \field{title}{Mathematical modelling and heuristic approaches to the location-routing problem of a cost-effective integrated solid waste management}
+      \field{volume}{273}
+      \field{year}{2019}
+      \field{pages}{75\bibrangedash 110}
+      \range{pages}{36}
+    \endentry
+    \entry{badve2020garbage}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=7099fff35f0dbfdb08e55a9906cac040}{%
+           family={Badve},
+           familyi={B\bibinitperiod},
+           given={Mohit},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b966056ec80b53c91a9f994a30e8a259}{%
+           family={Chaudhari},
+           familyi={C\bibinitperiod},
+           given={Apoorva},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbbbbae77fcc5544972ab98d234d8556}{%
+           family={Davda},
+           familyi={D\bibinitperiod},
+           given={Palak},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=789f2d59be13d598909034cd76885617}{%
+           family={Bagaria},
+           familyi={B\bibinitperiod},
+           given={Vinal},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a97b9c2550d517e7dbd03c742926086c}{%
+           family={Kalbande},
+           familyi={K\bibinitperiod},
+           given={Dhananjay},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c313e88a2ac5c2348b38aaa43caea973}
+      \strng{fullhash}{7e2777215d7072e1f03021ef3efc00e5}
+      \strng{bibnamehash}{7e2777215d7072e1f03021ef3efc00e5}
+      \strng{authorbibnamehash}{7e2777215d7072e1f03021ef3efc00e5}
+      \strng{authornamehash}{c313e88a2ac5c2348b38aaa43caea973}
+      \strng{authorfullhash}{7e2777215d7072e1f03021ef3efc00e5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 Fourth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud)(I-SMAC)}
+      \field{title}{Garbage Collection System using IoT for Smart City}
+      \field{year}{2020}
+      \field{pages}{138\bibrangedash 143}
+      \range{pages}{6}
+    \endentry
+    \entry{baldo2021multi}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f914cad619f34c6bb59f1b4ab8e88f33}{%
+           family={Baldo},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64e488ad0d0b834551a5f4965169ba7b}{%
+           family={Mecocci},
+           familyi={M\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=241944f64323851823b46480b5934b38}{%
+           family={Parrino},
+           familyi={P\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7697d2bee3fce3fd17e2a3ea4776f7c}{%
+           family={Peruzzi},
+           familyi={P\bibinitperiod},
+           given={Giacomo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5060d7b220dd4285e8a6b77a1c7225ef}{%
+           family={Pozzebon},
+           familyi={P\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{c7e6a7925aceb34f46cb2ba9c103aeae}
+      \strng{fullhash}{d888139fdcba96bcdb197cc2444441af}
+      \strng{bibnamehash}{d888139fdcba96bcdb197cc2444441af}
+      \strng{authorbibnamehash}{d888139fdcba96bcdb197cc2444441af}
+      \strng{authornamehash}{c7e6a7925aceb34f46cb2ba9c103aeae}
+      \strng{authorfullhash}{d888139fdcba96bcdb197cc2444441af}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{8}
+      \field{title}{A multi-layer lorawan infrastructure for smart waste management}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{pages}{2600}
+      \range{pages}{1}
+    \endentry
+    \entry{barzehkar2019landfill}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9ca8e397adcf7825924110e6933f83da}{%
+           family={Barzehkar},
+           familyi={B\bibinitperiod},
+           given={Mojtaba},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2c280d1cd9d6675c7701ff1df18e7eb}{%
+           family={Dinan},
+           familyi={D\bibinitperiod},
+           given={Naghmeh\bibnamedelima Mobarghaee},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=556b804fe743e1c5e0000bf07f05ae41}{%
+           family={Mazaheri},
+           familyi={M\bibinitperiod},
+           given={Samaneh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3732f8e4b55e7a622a9169bd094e6e6}{%
+           family={Tayebi},
+           familyi={T\bibinitperiod},
+           given={Rohollah\bibnamedelima Moosavi},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7100b2b79af400c933780c79ad7057f7}{%
+           family={Brodie},
+           familyi={B\bibinitperiod},
+           given={Graham\bibnamedelima Ian},
+           giveni={G\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d4fef6a474abbef368135143e18c4e27}
+      \strng{fullhash}{5daf98bebb179e7aff9f0e2323452921}
+      \strng{bibnamehash}{5daf98bebb179e7aff9f0e2323452921}
+      \strng{authorbibnamehash}{5daf98bebb179e7aff9f0e2323452921}
+      \strng{authornamehash}{d4fef6a474abbef368135143e18c4e27}
+      \strng{authorfullhash}{5daf98bebb179e7aff9f0e2323452921}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SN Applied Sciences}
+      \field{number}{9}
+      \field{title}{Landfill site selection using GIS-based multi-criteria evaluation (case study: SaharKhiz Region located in Gilan Province in Iran)}
+      \field{volume}{1}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
+    \entry{belien2014municipal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=712e426c1c841df01251d3a8b763439f}{%
+           family={Beliën},
+           familyi={B\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2351d7a74bf14a0eaf25b4fd40ca72d9}{%
+           family={De\bibnamedelima Boeck},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Liesje},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=225b8a8f929d422c5ad083d0bd0b7bf3}{%
+           family={Van\bibnamedelima Ackere},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{bebb03fe806f233ea496dc4280f619fb}
+      \strng{fullhash}{bebb03fe806f233ea496dc4280f619fb}
+      \strng{bibnamehash}{bebb03fe806f233ea496dc4280f619fb}
+      \strng{authorbibnamehash}{bebb03fe806f233ea496dc4280f619fb}
+      \strng{authornamehash}{bebb03fe806f233ea496dc4280f619fb}
+      \strng{authorfullhash}{bebb03fe806f233ea496dc4280f619fb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Science}
+      \field{number}{1}
+      \field{title}{Municipal solid waste collection and management problems: a literature review}
+      \field{volume}{48}
+      \field{year}{2014}
+      \field{pages}{78\bibrangedash 102}
+      \range{pages}{25}
+    \endentry
+    \entry{actionplan}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bcd71f64663b643b51986aeff8c9eb12}{%
+           family={{Central Pollution Control Board(CPCB)}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{bcd71f64663b643b51986aeff8c9eb12}
+      \strng{fullhash}{bcd71f64663b643b51986aeff8c9eb12}
+      \strng{bibnamehash}{bcd71f64663b643b51986aeff8c9eb12}
+      \strng{authorbibnamehash}{bcd71f64663b643b51986aeff8c9eb12}
+      \strng{authornamehash}{bcd71f64663b643b51986aeff8c9eb12}
+      \strng{authorfullhash}{bcd71f64663b643b51986aeff8c9eb12}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The National Action Plan for Municipal Solid Waste Management}}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://cpcb.nic.in/uploads/MSW/Action_plan.pdf
+      \endverb
+      \verb{url}
+      \verb https://cpcb.nic.in/uploads/MSW/Action_plan.pdf
+      \endverb
+    \endentry
+    \entry{chaudhari2018solid}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bffa70bfd41e0373f2e29a5b868362d6}{%
+           family={Chaudhari},
+           familyi={C\bibinitperiod},
+           given={Sangita\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29ce975c6d2839f5c7251e665d6b155f}{%
+           family={Bhole},
+           familyi={B\bibinitperiod},
+           given={Varsha\bibnamedelima Y},
+           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{693fb44b2beed398be89ded15def7001}
+      \strng{fullhash}{693fb44b2beed398be89ded15def7001}
+      \strng{bibnamehash}{693fb44b2beed398be89ded15def7001}
+      \strng{authorbibnamehash}{693fb44b2beed398be89ded15def7001}
+      \strng{authornamehash}{693fb44b2beed398be89ded15def7001}
+      \strng{authorfullhash}{693fb44b2beed398be89ded15def7001}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 International Conference on Smart City and Emerging Technology (ICSCET)}
+      \field{title}{Solid waste collection as a service using IoT-solution for smart cities}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{chaudhary2019gis}{incollection}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a77742158e682f176ac8c78f642c885a}{%
+           family={Chaudhary},
+           familyi={C\bibinitperiod},
+           given={Shailendra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb448e7defcc6592246261e65faeb233}{%
+           family={Nidhi},
+           familyi={N\bibinitperiod},
+           given={Chaitanya},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6958c1de8f59ee12df6dca2c370ea111}{%
+           family={Rawal},
+           familyi={R\bibinitperiod},
+           given={Nek\bibnamedelima Ram},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a64c16f5ab87143f55296c832a5fb7ae}
+      \strng{fullhash}{a64c16f5ab87143f55296c832a5fb7ae}
+      \strng{bibnamehash}{a64c16f5ab87143f55296c832a5fb7ae}
+      \strng{authorbibnamehash}{a64c16f5ab87143f55296c832a5fb7ae}
+      \strng{authornamehash}{a64c16f5ab87143f55296c832a5fb7ae}
+      \strng{authorfullhash}{a64c16f5ab87143f55296c832a5fb7ae}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Emerging Technologies in Data Mining and Information Security}
+      \field{title}{Gis-based model for optimal collection and transportation system for solid waste in Allahabad city}
+      \field{year}{2019}
+      \field{pages}{45\bibrangedash 65}
+      \range{pages}{21}
+    \endentry
+    \entry{CHEELA2021419}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=df0aed2f5851649fc4bf398ceef2a772}{%
+           family={Cheela},
+           familyi={C\bibinitperiod},
+           given={V.R.\bibnamedelimi Sankar},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8806cd7fd779e0fc15035258888e1dbf}{%
+           family={Ranjan},
+           familyi={R\bibinitperiod},
+           given={Ved\bibnamedelima Prakash},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ffcf65057d8140481d47d0ddd34c632}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={Sudha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17d25e3b6d6103e0c4c9905b5dbf9edd}{%
+           family={John},
+           familyi={J\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d64804ddcede028b23f57834fad9f3c8}{%
+           family={Dubey},
+           familyi={D\bibinitperiod},
+           given={Brajesh},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bbe85fbcb2f9aa6bdd39feebd6cc5d6c}
+      \strng{fullhash}{f5ec532bce943f7d02395644081239a4}
+      \strng{bibnamehash}{f5ec532bce943f7d02395644081239a4}
+      \strng{authorbibnamehash}{f5ec532bce943f7d02395644081239a4}
+      \strng{authornamehash}{bbe85fbcb2f9aa6bdd39feebd6cc5d6c}
+      \strng{authorfullhash}{f5ec532bce943f7d02395644081239a4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2226-5856}
+      \field{journaltitle}{Journal of Urban Management}
+      \field{number}{4}
+      \field{title}{Pathways to sustainable waste management in Indian Smart Cities}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{419\bibrangedash 429}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jum.2021.05.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2226585621000364
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2226585621000364
+      \endverb
+    \endentry
+    \entry{dugdhe2016efficient}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fdaa02f238bb4e3c839d0ba8caacca53}{%
+           family={Dugdhe},
+           familyi={D\bibinitperiod},
+           given={Saurabh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf51892251ced26c78c79402e2aa28f3}{%
+           family={Shelar},
+           familyi={S\bibinitperiod},
+           given={Pooja},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a79b3a819c82cc67d56e69d32912ea32}{%
+           family={Jire},
+           familyi={J\bibinitperiod},
+           given={Sajuli},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51189421d839c79312bda3011231359f}{%
+           family={Apte},
+           familyi={A\bibinitperiod},
+           given={Anuja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7d0a3d616c4cdb50e1a113e2b1c9f900}
+      \strng{fullhash}{0ffbd0b13ee7aa017fe527a926e72f3d}
+      \strng{bibnamehash}{0ffbd0b13ee7aa017fe527a926e72f3d}
+      \strng{authorbibnamehash}{0ffbd0b13ee7aa017fe527a926e72f3d}
+      \strng{authornamehash}{7d0a3d616c4cdb50e1a113e2b1c9f900}
+      \strng{authorfullhash}{0ffbd0b13ee7aa017fe527a926e72f3d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 international conference on internet of things and applications (IOTA)}
+      \field{title}{Efficient waste collection system}
+      \field{year}{2016}
+      \field{pages}{143\bibrangedash 147}
+      \range{pages}{5}
+    \endentry
+    \entry{grace2021smart}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=037c654c60a2fb62d479cfdb8b94d20c}{%
+           family={Grace\bibnamedelimb Mary\bibnamedelima Kanaga},
+           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ea185a6c75752e347d6f7576dad9da8}{%
+           family={Jacob},
+           familyi={J\bibinitperiod},
+           given={Lidiya\bibnamedelima Rachel},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{25195cafe9253b696b194922429e7cd4}
+      \strng{fullhash}{25195cafe9253b696b194922429e7cd4}
+      \strng{bibnamehash}{25195cafe9253b696b194922429e7cd4}
+      \strng{authorbibnamehash}{25195cafe9253b696b194922429e7cd4}
+      \strng{authornamehash}{25195cafe9253b696b194922429e7cd4}
+      \strng{authorfullhash}{25195cafe9253b696b194922429e7cd4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intelligence in Big Data Technologies—Beyond the Hype}
+      \field{title}{Smart Solution for Waste Management: A Coherent Framework Based on IoT and Big Data Analytics}
+      \field{year}{2021}
+      \field{pages}{97\bibrangedash 106}
+      \range{pages}{10}
+    \endentry
+    \entry{GUPTA2015206}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b7600980c188d10c6172487074861b8c}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=776276cca29a975a10759785f64ebb6b}{%
+           family={Yadav},
+           familyi={Y\bibinitperiod},
+           given={Krishna\bibnamedelima Kumar},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62899d082a3203fc04b5e019c326e38e}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vinit},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0e350ea0a56ce05fde677f0d7cbe2be9}
+      \strng{fullhash}{0e350ea0a56ce05fde677f0d7cbe2be9}
+      \strng{bibnamehash}{0e350ea0a56ce05fde677f0d7cbe2be9}
+      \strng{authorbibnamehash}{0e350ea0a56ce05fde677f0d7cbe2be9}
+      \strng{authornamehash}{0e350ea0a56ce05fde677f0d7cbe2be9}
+      \strng{authorfullhash}{0e350ea0a56ce05fde677f0d7cbe2be9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1001-0742}
+      \field{journaltitle}{Journal of Environmental Sciences}
+      \field{title}{A review on current status of municipal solid waste management in India}
+      \field{volume}{37}
+      \field{year}{2015}
+      \field{pages}{206\bibrangedash 217}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jes.2015.01.034
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1001074215002995
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1001074215002995
+      \endverb
+      \keyw{Municipal solid waste,Characteristic,Management,India,Disposal}
+    \endentry
+    \entry{gurobi}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3fb19cc60482639d6ec88ca136745f1}{%
+           family={{Gurobi Optimization, LLC}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{fullhash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{bibnamehash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{authorbibnamehash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{authornamehash}{e3fb19cc60482639d6ec88ca136745f1}
+      \strng{authorfullhash}{e3fb19cc60482639d6ec88ca136745f1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Gurobi Optimizer Reference Manual}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.gurobi.com
+      \endverb
+      \verb{url}
+      \verb https://www.gurobi.com
+      \endverb
+    \endentry
+    \entry{han2015waste}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9dfd1673e182a14ee1690b92e55941f7}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a76357658959d7ec67b5145b142b1116}{%
+           family={Ponce\bibnamedelima Cueto},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Fakultet prometnih znanosti Sveučilišta u Zagrebu}%
+      }
+      \strng{namehash}{8587916007cbb3b370af8bc3a4371fbb}
+      \strng{fullhash}{8587916007cbb3b370af8bc3a4371fbb}
+      \strng{bibnamehash}{8587916007cbb3b370af8bc3a4371fbb}
+      \strng{authorbibnamehash}{8587916007cbb3b370af8bc3a4371fbb}
+      \strng{authornamehash}{8587916007cbb3b370af8bc3a4371fbb}
+      \strng{authorfullhash}{8587916007cbb3b370af8bc3a4371fbb}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PROMET-Traffic\&Transportation}
+      \field{number}{4}
+      \field{title}{Waste collection vehicle routing problem: literature review}
+      \field{volume}{27}
+      \field{year}{2015}
+      \field{pages}{345\bibrangedash 358}
+      \range{pages}{14}
+    \endentry
+    \entry{hannan2020waste}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=3d6f41afe8656586df62e027d3b81a15}{%
+           family={Hannan},
+           familyi={H\bibinitperiod},
+           given={MA},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f432a654b8ff79ac4e870fd0c8793da}{%
+           family={Begum},
+           familyi={B\bibinitperiod},
+           given={RA},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79bf1dc27703b621675ed2d41dd64abb}{%
+           family={Al-Shetwi},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Ali\bibnamedelima Q},
+           giveni={A\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78eb104dd60353efb6f27ea1860b2cbc}{%
+           family={Ker},
+           familyi={K\bibinitperiod},
+           given={PJ},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cba5a5b5ac0800b52a33473868edbc6e}{%
+           family={Al\bibnamedelima Mamun},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={MA},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04402abfffa2c5d64a926a18f41e3641}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Aini},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33ddc913a93db56e682eadd2b700ad05}{%
+           family={Basri},
+           familyi={B\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d38e35aa4c93fbf9998800abb6fd7d3}{%
+           family={Mahlia},
+           familyi={M\bibinitperiod},
+           given={TMI},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4fc566cd3d2cda55b18a0f2bbb1c27f0}
+      \strng{fullhash}{faca9c7a4d279ffd23af2b8ad0df01af}
+      \strng{bibnamehash}{faca9c7a4d279ffd23af2b8ad0df01af}
+      \strng{authorbibnamehash}{faca9c7a4d279ffd23af2b8ad0df01af}
+      \strng{authornamehash}{4fc566cd3d2cda55b18a0f2bbb1c27f0}
+      \strng{authorfullhash}{faca9c7a4d279ffd23af2b8ad0df01af}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Cities and Society}
+      \field{title}{Waste collection route optimisation model for linking cost saving and emission reduction to achieve sustainable development goals}
+      \field{volume}{62}
+      \field{year}{2020}
+      \field{pages}{102393}
+      \range{pages}{1}
+    \endentry
+    \entry{hoornweg2012waste}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5d0e8073b917608b03664ef996f058c6}{%
+           family={Hoornweg},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b53b61adfe1e09e19908b2ebf36df379}{%
+           family={Bhada-Tata},
+           familyi={B\bibinithyphendelim T\bibinitperiod},
+           given={Perinaz},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {World Bank, Washington, DC}%
+      }
+      \strng{namehash}{fa247377e52876d38b414388be6cd994}
+      \strng{fullhash}{fa247377e52876d38b414388be6cd994}
+      \strng{bibnamehash}{fa247377e52876d38b414388be6cd994}
+      \strng{authorbibnamehash}{fa247377e52876d38b414388be6cd994}
+      \strng{authornamehash}{fa247377e52876d38b414388be6cd994}
+      \strng{authorfullhash}{fa247377e52876d38b414388be6cd994}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What a waste: a global review of solid waste management}
+      \field{year}{2012}
+    \endentry
+    \entry{karadimas2008routing}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=36f0e9646f2e1475833637c2e9d2d858}{%
+           family={Karadimas},
+           familyi={K\bibinitperiod},
+           given={Nikolaos\bibnamedelima V},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6ba7bf3ccb2a30cad813a7bd0a3c76c}{%
+           family={Doukas},
+           familyi={D\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccc128cf222e0d00db24450759acf7c1}{%
+           family={Kolokathi},
+           familyi={K\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=056efa11a4970e734d6f92221c784966}{%
+           family={Defteraiou},
+           familyi={D\bibinitperiod},
+           given={Gerasimoula},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{3}{%
+        {World Scientific}%
+        {Engineering Academy}%
+        {Society (WSEAS) Stevens Point~…}%
+      }
+      \strng{namehash}{82168c255a9f3b3d9e180fba2b796fa0}
+      \strng{fullhash}{5869fc52465084f3a9d79e9f3ece44dc}
+      \strng{bibnamehash}{5869fc52465084f3a9d79e9f3ece44dc}
+      \strng{authorbibnamehash}{5869fc52465084f3a9d79e9f3ece44dc}
+      \strng{authornamehash}{82168c255a9f3b3d9e180fba2b796fa0}
+      \strng{authorfullhash}{5869fc52465084f3a9d79e9f3ece44dc}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{wseas transactions on computers}
+      \field{number}{12}
+      \field{title}{Routing optimization heuristics algorithms for urban solid waste transportation management}
+      \field{volume}{7}
+      \field{year}{2008}
+      \field{pages}{2022\bibrangedash 2031}
+      \range{pages}{10}
+    \endentry
+    \entry{kulcar1996optimizing}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=77dc2c8c7ed8f832e3a09bc5681505f8}{%
+           family={Kulcar},
+           familyi={K\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{77dc2c8c7ed8f832e3a09bc5681505f8}
+      \strng{fullhash}{77dc2c8c7ed8f832e3a09bc5681505f8}
+      \strng{bibnamehash}{77dc2c8c7ed8f832e3a09bc5681505f8}
+      \strng{authorbibnamehash}{77dc2c8c7ed8f832e3a09bc5681505f8}
+      \strng{authornamehash}{77dc2c8c7ed8f832e3a09bc5681505f8}
+      \strng{authorfullhash}{77dc2c8c7ed8f832e3a09bc5681505f8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{1}
+      \field{title}{Optimizing solid waste collection in Brussels}
+      \field{volume}{90}
+      \field{year}{1996}
+      \field{pages}{71\bibrangedash 77}
+      \range{pages}{7}
+    \endentry
+    \entry{lozano2018smart}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a460dc693dc53493cb377d377395fcbf}{%
+           family={Lozano},
+           familyi={L\bibinitperiod},
+           given={Álvaro},
+           giveni={Á\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd6d6069f7c8f40c5dee4501720d7faf}{%
+           family={Caridad},
+           familyi={C\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be5f76a98556c86aa9bc6900338c677b}{%
+           family={De\bibnamedelima Paz},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Juan\bibnamedelima Francisco},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db55ed13ecf9d73b75bda29646e7eb26}{%
+           family={Villarrubia\bibnamedelima Gonzalez},
+           familyi={V\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=953622df906e7360209eddfcfcd05ec9}{%
+           family={Bajo},
+           familyi={B\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{50cca4326fbf5768845ed1c2ce008a11}
+      \strng{fullhash}{3f236ca3d34d50d98ac2df5467e993ad}
+      \strng{bibnamehash}{3f236ca3d34d50d98ac2df5467e993ad}
+      \strng{authorbibnamehash}{3f236ca3d34d50d98ac2df5467e993ad}
+      \strng{authornamehash}{50cca4326fbf5768845ed1c2ce008a11}
+      \strng{authorfullhash}{3f236ca3d34d50d98ac2df5467e993ad}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{5}
+      \field{title}{Smart waste collection system with low consumption LoRaWAN nodes and route optimization}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{pages}{1465}
+      \range{pages}{1}
+    \endentry
+    \entry{malakahmad2014solid}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0de15805dc65ef17fbf465282be234bb}{%
+           family={Malakahmad},
+           familyi={M\bibinitperiod},
+           given={Amirhossein},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08a9ba7581a832a15ded221fbf3d8049}{%
+           family={Bakri},
+           familyi={B\bibinitperiod},
+           given={Putri\bibnamedelima Md},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b608ec16c3c04e9365b482871dc3546}{%
+           family={Mokhtar},
+           familyi={M\bibinitperiod},
+           given={Munirah\bibnamedelimb Radin\bibnamedelima Md},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1343bac09be765877b8f58c4022d4507}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={Noordiana},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4d0c7cc3c65b5171f1a56da461d52e69}
+      \strng{fullhash}{ceb9c388b91bef67f35fc16dfdcb716d}
+      \strng{bibnamehash}{ceb9c388b91bef67f35fc16dfdcb716d}
+      \strng{authorbibnamehash}{ceb9c388b91bef67f35fc16dfdcb716d}
+      \strng{authornamehash}{4d0c7cc3c65b5171f1a56da461d52e69}
+      \strng{authorfullhash}{ceb9c388b91bef67f35fc16dfdcb716d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Engineering}
+      \field{title}{Solid waste collection routes optimization via GIS techniques in Ipoh city, Malaysia}
+      \field{volume}{77}
+      \field{year}{2014}
+      \field{pages}{20\bibrangedash 27}
+      \range{pages}{8}
+    \endentry
+    \entry{malapur2017iot}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8083d04077edb03e3e49e6a796eb6dcb}{%
+           family={Malapur},
+           familyi={M\bibinitperiod},
+           given={BS},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aab1b6664a967f59e9da4e2db69f9c9c}{%
+           family={Pattanshetti},
+           familyi={P\bibinitperiod},
+           given={Vani\bibnamedelima R},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{efe2d20d0a437c4a3fd1c624980459fd}
+      \strng{fullhash}{efe2d20d0a437c4a3fd1c624980459fd}
+      \strng{bibnamehash}{efe2d20d0a437c4a3fd1c624980459fd}
+      \strng{authorbibnamehash}{efe2d20d0a437c4a3fd1c624980459fd}
+      \strng{authornamehash}{efe2d20d0a437c4a3fd1c624980459fd}
+      \strng{authorfullhash}{efe2d20d0a437c4a3fd1c624980459fd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 International Conference on Energy, Communication, Data Analytics and Soft Computing (ICECDS)}
+      \field{title}{IoT based waste management: An application to smart city}
+      \field{year}{2017}
+      \field{pages}{2476\bibrangedash 2486}
+      \range{pages}{11}
+    \endentry
+    \entry{medvedev2015waste}{incollection}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=7da6126a54752663328b260e72d5f29c}{%
+           family={Medvedev},
+           familyi={M\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=947db9b2b9294a801ea2c735ae0af2f3}{%
+           family={Fedchenkov},
+           familyi={F\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8da289bb46b6a95f52ced670c23af820}{%
+           family={Zaslavsky},
+           familyi={Z\bibinitperiod},
+           given={Arkady},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e143be418e594c3136af7a93d585d81f}{%
+           family={Anagnostopoulos},
+           familyi={A\bibinitperiod},
+           given={Theodoros},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bb5f4ad0bee593918ae461113d94749}{%
+           family={Khoruzhnikov},
+           familyi={K\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3d144863d73d6f48f3fa374117f206fb}
+      \strng{fullhash}{1504e41ab8e028b6ca6258147d0ae210}
+      \strng{bibnamehash}{1504e41ab8e028b6ca6258147d0ae210}
+      \strng{authorbibnamehash}{1504e41ab8e028b6ca6258147d0ae210}
+      \strng{authornamehash}{3d144863d73d6f48f3fa374117f206fb}
+      \strng{authorfullhash}{1504e41ab8e028b6ca6258147d0ae210}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Internet of Things, Smart Spaces, and Next Generation Networks and Systems}
+      \field{title}{Waste management as an IoT-enabled service in smart cities}
+      \field{year}{2015}
+      \field{pages}{104\bibrangedash 115}
+      \range{pages}{12}
+    \endentry
+    \entry{ogwueleke2009route}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8ec549a0482d6fd8f286e593c61ae521}{%
+           family={Ogwueleke},
+           familyi={O\bibinitperiod},
+           given={TC},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ec549a0482d6fd8f286e593c61ae521}
+      \strng{fullhash}{8ec549a0482d6fd8f286e593c61ae521}
+      \strng{bibnamehash}{8ec549a0482d6fd8f286e593c61ae521}
+      \strng{authorbibnamehash}{8ec549a0482d6fd8f286e593c61ae521}
+      \strng{authornamehash}{8ec549a0482d6fd8f286e593c61ae521}
+      \strng{authorfullhash}{8ec549a0482d6fd8f286e593c61ae521}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Sciences and Environmental Management}
+      \field{number}{2}
+      \field{title}{Route optimization for solid waste collection: Onitsha (Nigeria) case study}
+      \field{volume}{13}
+      \field{year}{2009}
+    \endentry
+    \entry{de2007decision}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ebd7b027ec51905994b5b4c5fdba86e7}{%
+           family={Oliveira\bibnamedelima Simonetto},
+           familyi={O\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Eugenio},
+           giveni={E\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=172be3da3827dd3c635b2cf00ca7b80d}{%
+           family={Borenstein},
+           familyi={B\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{df0bbe096edafc9003f34168ce4c4447}
+      \strng{fullhash}{df0bbe096edafc9003f34168ce4c4447}
+      \strng{bibnamehash}{df0bbe096edafc9003f34168ce4c4447}
+      \strng{authorbibnamehash}{df0bbe096edafc9003f34168ce4c4447}
+      \strng{authornamehash}{df0bbe096edafc9003f34168ce4c4447}
+      \strng{authorfullhash}{df0bbe096edafc9003f34168ce4c4447}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Waste Management}
+      \field{number}{10}
+      \field{title}{A decision support system for the operational planning of solid waste collection}
+      \field{volume}{27}
+      \field{year}{2007}
+      \field{pages}{1286\bibrangedash 1297}
+      \range{pages}{12}
+    \endentry
+    \entry{ramos2018smart}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ccab04f498710aac1bc85e8ff113077c}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Tânia\bibnamedelimb Rodrigues\bibnamedelima Pereira},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d3961b501abaebd880d7c5e38b0221f}{%
+           family={Morais},
+           familyi={M\bibinitperiod},
+           given={Carolina\bibnamedelima Soares},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=98397ab87e64daa6a2d5882a3accb567}{%
+           family={Barbosa-Póvoa},
+           familyi={B\bibinithyphendelim P\bibinitperiod},
+           given={Ana\bibnamedelima Paula},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2c5842ab900f9396e5c7df818e2341ee}
+      \strng{fullhash}{2c5842ab900f9396e5c7df818e2341ee}
+      \strng{bibnamehash}{2c5842ab900f9396e5c7df818e2341ee}
+      \strng{authorbibnamehash}{2c5842ab900f9396e5c7df818e2341ee}
+      \strng{authornamehash}{2c5842ab900f9396e5c7df818e2341ee}
+      \strng{authorfullhash}{2c5842ab900f9396e5c7df818e2341ee}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{title}{The smart waste collection routing problem: Alternative operational management approaches}
+      \field{volume}{103}
+      \field{year}{2018}
+      \field{pages}{146\bibrangedash 158}
+      \range{pages}{13}
+    \endentry
+    \entry{rathore2020location}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=86d26f4a1083d5d61b0a76368d2bd04b}{%
+           family={Rathore},
+           familyi={R\bibinitperiod},
+           given={Pradeep},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d24c973f5bb6ac4eab9097b5b67ae73}{%
+           family={Sarmah},
+           familyi={S\bibinitperiod},
+           given={Sarada\bibnamedelima Prasad},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd582f0d9af445897a10abc74736346b}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Arti},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{77fe18ea9396f2cb7bb1eeb6f228b89e}
+      \strng{fullhash}{77fe18ea9396f2cb7bb1eeb6f228b89e}
+      \strng{bibnamehash}{77fe18ea9396f2cb7bb1eeb6f228b89e}
+      \strng{authorbibnamehash}{77fe18ea9396f2cb7bb1eeb6f228b89e}
+      \strng{authornamehash}{77fe18ea9396f2cb7bb1eeb6f228b89e}
+      \strng{authorfullhash}{77fe18ea9396f2cb7bb1eeb6f228b89e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environment, Development and Sustainability}
+      \field{number}{4}
+      \field{title}{Location--allocation of bins in urban solid waste management: a case study of Bilaspur city, India}
+      \field{volume}{22}
+      \field{year}{2020}
+      \field{pages}{3309\bibrangedash 3331}
+      \range{pages}{23}
+    \endentry
+    \entry{al2021optimization}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a4ee727d41a626f82675f37a441e632d}{%
+           family={Al-Refaie},
+           familyi={A\bibinithyphendelim R\bibinitperiod},
+           given={Abbas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ecbd3fbf8cdbb548eddfea3447fcd1d}{%
+           family={Al-Hawadi},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Ahmad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3a73cf706cea7629262785815502394}{%
+           family={Fraij},
+           familyi={F\bibinitperiod},
+           given={Saja},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{0df771755ae111283a112edb00e31ed1}
+      \strng{fullhash}{0df771755ae111283a112edb00e31ed1}
+      \strng{bibnamehash}{0df771755ae111283a112edb00e31ed1}
+      \strng{authorbibnamehash}{0df771755ae111283a112edb00e31ed1}
+      \strng{authornamehash}{0df771755ae111283a112edb00e31ed1}
+      \strng{authorfullhash}{0df771755ae111283a112edb00e31ed1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering Optimization}
+      \field{number}{12}
+      \field{title}{Optimization models for clustering of solid waste collection process}
+      \field{volume}{53}
+      \field{year}{2021}
+      \field{pages}{2056\bibrangedash 2069}
+      \range{pages}{14}
+    \endentry
+    \entry{SHARMA2021293}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=47cb830ab3e39cde8e928125789b2f77}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Bhupendra\bibnamedelima K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=168fddfadacae8d43db4e9892045b9fb}{%
+           family={Chandel},
+           familyi={C\bibinitperiod},
+           given={Munish\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50e1b90bdfbb3815116cfc0e0cdd9cb9}
+      \strng{fullhash}{50e1b90bdfbb3815116cfc0e0cdd9cb9}
+      \strng{bibnamehash}{50e1b90bdfbb3815116cfc0e0cdd9cb9}
+      \strng{authorbibnamehash}{50e1b90bdfbb3815116cfc0e0cdd9cb9}
+      \strng{authornamehash}{50e1b90bdfbb3815116cfc0e0cdd9cb9}
+      \strng{authorfullhash}{50e1b90bdfbb3815116cfc0e0cdd9cb9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0956-053X}
+      \field{journaltitle}{Waste Management}
+      \field{title}{Life cycle cost analysis of municipal solid waste management scenarios for Mumbai, India}
+      \field{volume}{124}
+      \field{year}{2021}
+      \field{pages}{293\bibrangedash 302}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.wasman.2021.02.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0956053X21000659
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0956053X21000659
+      \endverb
+      \keyw{Economic assessment,Life cycle cost analysis,Municipal solid waste management}
+    \endentry
+    \entry{sk2020optimal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=851eb40f7fde7e95f60a6458acef467f}{%
+           family={Sk},
+           familyi={S\bibinitperiod},
+           given={Md\bibnamedelima Mainul},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=464c1b578d002fa2fdcc3fc7fec79793}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Sk\bibnamedelima Ajim},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c19bb7b45e473222590d7acacce20720}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Ateeque},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{87fe9426ef08550092840363ae6ddc14}
+      \strng{fullhash}{87fe9426ef08550092840363ae6ddc14}
+      \strng{bibnamehash}{87fe9426ef08550092840363ae6ddc14}
+      \strng{authorbibnamehash}{87fe9426ef08550092840363ae6ddc14}
+      \strng{authornamehash}{87fe9426ef08550092840363ae6ddc14}
+      \strng{authorfullhash}{87fe9426ef08550092840363ae6ddc14}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{KN-Journal of Cartography and Geographic Information}
+      \field{number}{4}
+      \field{title}{Optimal sanitary landfill site selection for solid waste disposal in Durgapur city using geographic information system and multi-criteria evaluation technique}
+      \field{volume}{70}
+      \field{year}{2020}
+      \field{pages}{163\bibrangedash 180}
+      \range{pages}{18}
+    \endentry
+    \entry{somani2021integrated}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cad1214869b746d540a1236a4636509c}{%
+           family={Somani},
+           familyi={S\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60e218c4da8d9cc35bc600873b0f982c}{%
+           family={Navaneethan},
+           familyi={N\bibinitperiod},
+           given={RD},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86b64b381d340b9e3f2627ed02ac799f}{%
+           family={Thangaiyan},
+           familyi={T\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{f24ca410a7c05cc4c1cd01d40e84cdf1}
+      \strng{fullhash}{f24ca410a7c05cc4c1cd01d40e84cdf1}
+      \strng{bibnamehash}{f24ca410a7c05cc4c1cd01d40e84cdf1}
+      \strng{authorbibnamehash}{f24ca410a7c05cc4c1cd01d40e84cdf1}
+      \strng{authornamehash}{f24ca410a7c05cc4c1cd01d40e84cdf1}
+      \strng{authorfullhash}{f24ca410a7c05cc4c1cd01d40e84cdf1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Journal of Physics: Conference Series}
+      \field{number}{1}
+      \field{title}{Integrated solid waste management in urban India: A mini review}
+      \field{volume}{1913}
+      \field{year}{2021}
+      \field{pages}{012084}
+      \range{pages}{1}
+    \endentry
+    \entry{sulemana2018optimal}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=69cc62354573856b5367c651f863ae8f}{%
+           family={Sulemana},
+           familyi={S\bibinitperiod},
+           given={Alhassan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5475fc8bd7b432a3dd1bc68eaf26b01e}{%
+           family={Donkor},
+           familyi={D\bibinitperiod},
+           given={Emmanuel\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58b74bc47f706ccffb3fd2c82dda9978}{%
+           family={Forkuo},
+           familyi={F\bibinitperiod},
+           given={Eric\bibnamedelima K},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46bcc3e9f25c7fa64717717f7e72d3df}{%
+           family={Oduro-Kwarteng},
+           familyi={O\bibinithyphendelim K\bibinitperiod},
+           given={Sampson},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{3c8d615d518032cc180c8eae25ecab72}
+      \strng{fullhash}{51dafc726fdeab1a66e4b2a22a81be5c}
+      \strng{bibnamehash}{51dafc726fdeab1a66e4b2a22a81be5c}
+      \strng{authorbibnamehash}{51dafc726fdeab1a66e4b2a22a81be5c}
+      \strng{authornamehash}{3c8d615d518032cc180c8eae25ecab72}
+      \strng{authorfullhash}{51dafc726fdeab1a66e4b2a22a81be5c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Engineering}
+      \field{title}{Optimal routing of solid waste collection trucks: a review of methods}
+      \field{volume}{2018}
+      \field{year}{2018}
+    \endentry
+    \entry{vasagade2017dynamic}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bc85d5770053b5bc3e0d0e90fbcf041f}{%
+           family={Vasagade},
+           familyi={V\bibinitperiod},
+           given={Trushali\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c861c2a83eed152068287071fdea5a9}{%
+           family={Tamboli},
+           familyi={T\bibinitperiod},
+           given={Shabanam\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee7f6c93c4308f2c17f0de367dc6717a}{%
+           family={Shinde},
+           familyi={S\bibinitperiod},
+           given={Archana\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5036cb5e4980728e44053d48ee4fd854}
+      \strng{fullhash}{5036cb5e4980728e44053d48ee4fd854}
+      \strng{bibnamehash}{5036cb5e4980728e44053d48ee4fd854}
+      \strng{authorbibnamehash}{5036cb5e4980728e44053d48ee4fd854}
+      \strng{authornamehash}{5036cb5e4980728e44053d48ee4fd854}
+      \strng{authorfullhash}{5036cb5e4980728e44053d48ee4fd854}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 International conference on inventive communication and computational technologies (ICICCT)}
+      \field{title}{Dynamic solid waste collection and management system based on sensors, elevator and GSM}
+      \field{year}{2017}
+      \field{pages}{263\bibrangedash 267}
+      \range{pages}{5}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,9 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Tables.blg'
+[226] biber-MSWIN64:340> INFO - === 
+[287] Biber.pm:415> INFO - Reading 'Tables.bcf'
+[577] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[587] Utils.pm:395> WARN - The file 'Tables.bcf' does not contain any citations!
+[604] bbl.pm:654> INFO - Writing 'Tables.bbl' with encoding 'UTF-8'
+[604] bbl.pm:757> INFO - Output to Tables.bbl
+[605] Biber.pm:128> INFO - WARNINGS: 1

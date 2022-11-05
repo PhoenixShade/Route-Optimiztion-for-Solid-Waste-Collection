@@ -1,0 +1,16 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Manuscript.blg'
+[227] biber-MSWIN64:340> INFO - === 
+[284] Biber.pm:415> INFO - Reading 'Manuscript.bcf'
+[590] Biber.pm:952> INFO - Found 43 citekeys in bib section 0
+[645] Biber.pm:4340> INFO - Processing section 0
+[681] Biber.pm:4531> INFO - Looking for bibtex format file 'citation.bib' for section 0
+[825] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1149] bibtex.pm:1494> INFO - Found BibTeX data source 'citation.bib'
+[1739] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[1741] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1741] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1741] Biber.pm:4168> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[1741] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1848] bbl.pm:654> INFO - Writing 'Manuscript.bbl' with encoding 'UTF-8'
+[1895] bbl.pm:757> INFO - Output to Manuscript.bbl
